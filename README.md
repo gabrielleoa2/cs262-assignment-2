@@ -19,3 +19,5 @@ It stores `button.tsx` and `image-viewer.tsx`.
 ## When we `npx expo install` the `expo-image-picker`, what files are changed in the application?
 
 `package.json` and `package-lock.json` are changed.
+
+![Alt text](IMG_8426.PNG)
